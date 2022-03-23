@@ -1,0 +1,26 @@
+# Task 1: Create the follwoing classes
+1. Person
+    first_name
+    last_name
+    full_name()
+
+2. Employee(Person)
+    emp_id
+    basic_salary
+    designation
+    salary()
+    # salary
+
+3. Developer(Employee)
+    rate_per_hour
+    hours
+    salary()
+    # basic_salary + (hours * rate_per_hour)
+
+4. SalesExecutive(Employee)
+    incentive_per_sale
+    total_sales
+    salary()
+    # basic_salary + (incentive_per_sale * total_sales)
+
+# Task 2: create objects using Developer and SalesExecutive class and print their salary
