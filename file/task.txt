@@ -1,0 +1,7 @@
+1. Create a file with name "info.txt"
+2. Write "A quick brown fox jumps over a lazy dog" to the file and save
+3. read and print the content of the file.
+4. append "And the lazy dog keeps watching" at the end of the "info.txt" file.
+-----------------------------
+#Bonus
+5. copy the content of "info.txt" to "copy.txt"
